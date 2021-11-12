@@ -1,0 +1,5 @@
+let line = gets (). split ("");
+deixe A = parseInt (linha [0]);
+deixe B = parseInt (linha [1]);
+deixe total = A + B; // Altere o valor da variável com o cálculo esperado
+console.log ("X =" + total);
